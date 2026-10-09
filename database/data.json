@@ -1,0 +1,111 @@
+[
+ {
+ "id": 1,
+ "name": "Osh",
+ "restaurant": "Besh Qozon",
+ "category": "Main",
+ "weight": 350,
+ "price": 45000,
+ "image": null
+ },
+ { 
+ "id": 2,
+ "name": "Mastava",
+ "restaurant": "Dilkash",
+ "category": "Soup",
+ "weight": 400,
+ "price": 30000,
+ "image": null
+ },
+ {
+"id": 3,
+ "name": "Chocolate Cake",
+ "restaurant": "Sweet Home",
+ "category": "Dessert",
+ "weight": 150,
+ "price": 28000,
+ "image": null
+ },
+ {
+   "id": 4,
+ "name": "Qozon kabob",
+ "restaurant": "Besh Qozon",
+ "category": "Maint",
+ "weight": 400,
+ "price": 60000,
+ "image": null 
+ },
+ {
+    "id": 5,
+ "name": "Shurvab",
+ "restaurant": "Besh Qozon",
+ "category": "Soup",
+ "weight": 450,
+ "price": 35000,
+ "image": null 
+ },
+ {
+    "id": 6,
+ "name": "Beef Steak",
+ "restaurant": "Steak Housen",
+ "category": "Main",
+ "weight": 300,
+ "price": 120000,
+ "image": null 
+ },
+ {
+    "id": 7,
+ "name": "Cheesecake",
+ "restaurant": "Steak Housen",
+ "category": "Dessert",
+ "weight": 180,
+ "price": 32000,
+ "image": null 
+ },
+ {
+    "id": 8,
+ "name": "Chicken Burger",
+ "restaurant": "Burger Town",
+ "category": "Main",
+ "weight": 280,
+ "price": 38000,
+ "image": null  
+ },
+ {
+    "id": 9,
+ "name": "Chicken Soup",
+ "restaurant": "Family Cafe",
+ "category": "Soup",
+ "weight": 350,
+ "price": 25000,
+ "image": null 
+ },
+ {
+   "id": 10,
+ "name": "Manti",
+ "restaurant": "Milliy Taomlar",
+ "category": "Main",
+ "weight": 320,
+ "price": 40000,
+ "image": null  
+ },
+ {
+    "id": 11,
+ "name": "Chak-chak",
+ "restaurant": "Milliy Taomlar",
+ "category": "Dessert",
+ "weight": 200,
+ "price": 20000,
+ "image": null 
+ },
+ {
+   "id": 12,
+ "name": "Tomato Soup",
+ "restaurant": "Family Cafe",
+ "category": "Soup",
+ "weight": 300,
+ "price": 24000,
+ "image": null  
+ }
+
+]
